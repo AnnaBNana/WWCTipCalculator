@@ -8,4 +8,6 @@ The display at the top will eventually be where the price of the bill is display
 Below, we have the tip percentages, what the tip will be, and the total amount to pay including tip.
 Finally, we have the calculator key pad.
 
+Currently, we have a few button hooked up to different functions in the code. Play with these and adjust them how you like. To delete a button or an outlet, besides deleting the element from the storyboard and deleting the relevant code, you'll also have to delete the connection. In the storyboard properties, click on the arrow in the storyboard options toolbar. On the view controller in your storyboard, click on the orange circle at the top. This will show you all the connections. Use the x to delete any connections you do not want.
+
 For our next session, we will add the logic so that the calculator displays the user input and outputs the results.
